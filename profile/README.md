@@ -1,8 +1,14 @@
-# lint-md
+<p align="center">
+  <a href="https://github.com/lint-md">
+    <img width="100" src="https://avatars.githubusercontent.com/u/48879552">
+  </a>
+</p>
 
-> 让中文 Markdown 写作更规范、更一致。
+<p align="center">让中文 Markdown 写作更规范、更一致。</p>
 
-lint-md 是一组围绕 Markdown 质量建设的开源工具，覆盖命令行检查、解析能力、编辑器插件与 CI 集成。
+<p align="center">Lint your Chinese Markdown for cleaner, more consistent writing.</p>
+
+lint-md 是一组围绕中文 Markdown 写作规范的开源工具集合，基于 AST 实现检查与自动修复能力，覆盖命令行、Node.js API、编辑器插件与 CI 集成等多种使用场景。
 
 ## 项目
 
