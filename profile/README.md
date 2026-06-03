@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lint-md">
-    <img width="128" src="https://avatars.githubusercontent.com/u/59811714">
+    <img width="100" src="https://avatars.githubusercontent.com/u/59811714">
   </a>
 </p>
 
