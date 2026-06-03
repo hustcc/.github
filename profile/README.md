@@ -29,6 +29,6 @@
 - [`lint-md/github-action`](https://github.com/lint-md/github-action)：GitHub Action 集成。
 - [`lint-md/vscode-plugin`](https://github.com/lint-md/vscode-plugin)：VSCode 编辑器集成。
 
-## 开源贡献
+### 开源贡献
 
 欢迎通过 [Issues](https://github.com/lint-md/lint-md/issues) 提建议、报问题，或通过 [Pull Requests](https://github.com/lint-md/lint-md/pulls) 直接参与共建。
