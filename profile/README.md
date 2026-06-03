@@ -8,10 +8,6 @@
 
 <p align="center">Lint your Chinese Markdown for cleaner, more consistent writing.</p>
 
-<p align="center"><img src="https://opengraph.githubassets.com/1/lint-md/lint-md" height="280"></p>
-
-----
-
 <img src="https://avatars.githubusercontent.com/u/59811714" width="16" /> lint-md ![stars](https://img.shields.io/github/stars/lint-md?style=social) 是专注中文 Markdown 规范化的开源组织。我们围绕 AST 构建可扩展的规则体系与自动修复能力，提供从底层解析到上层工程化接入的一站式工具链，帮助团队在文档、博客与知识库场景中持续输出统一、可维护的内容质量。
 
 ## 项目体系
